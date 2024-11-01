@@ -1,2 +1,0 @@
-def goodmornig():
-   print("おはようございます")
